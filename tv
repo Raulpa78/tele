@@ -470,6 +470,8 @@ http://lampfal.ddns.net:8080/OZdani/Aluiz/18597
 https://mitele.lookplay.ml/video/nova/index.m3u8
 #EXTINF:-1 tvg-id="MEGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" group-title="TDT" tvg-name="MEGA",MEGA
 https://mitele.lookplay.ml/video/mega/index.m3u8
+#EXTINF:-1 tvg-id="MEGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" group-title="TDT" tvg-name="MEGA",MEGA HD
+https://directo.atresmedia.com:443/1617344007_16453e8ff4e125163bdcaf882beefe53d40258b4/geomega/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="BE MAD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png" group-title="TDT" tvg-name="BE MAD",BE MAD
 https://mitele.lookplay.ml/video/be_mad/index.m3u8
 #EXTINF:-1 tvg-id="DIVINITY" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" group-title="TDT" tvg-name="DIVINITY",DIVINITY
